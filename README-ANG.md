@@ -11,7 +11,7 @@ A Couple þiŋs Are Unalik To þe Bencmark Keȝboard Alsuc Ȝe Ƿould Ƿeen, So 
 | Y/y | Ȝ/ȝ | NONE[^1] |
 | O/o | Œ/œ | AltGr |
 | A/a | Æ/æ | AltGr |
-| S/s | ſ/NONE[^2] | AltGr |
+| S/s | NONE[^2]/ſ | AltGr |
 | D/d | Ð/ð | AltGr |
 | X/x | ⁊/& | AltGr |
 | N/n | Ŋ/ŋ | AltGr |
